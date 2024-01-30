@@ -1,0 +1,7 @@
+
+
+What is the use of READ.ME file ? 
+The `README` file, also known as a readme or documentation file, contains information about project overview, usage, Installation Instructions, Configuration Contributing Guidelines, License Information, Contact Information, Changelog.
+
+Documentation Hub for a project, providing essential information to make it easier for others to understand, use, and contribute to the project. 
+
